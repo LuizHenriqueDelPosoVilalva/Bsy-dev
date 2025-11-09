@@ -102,7 +102,7 @@ export function Process() {
 
         <div className="mt-16 text-center">
           <img
-            src="/process.jpg"
+            src="process.jpg"
             alt="Processo de gestão de resíduos"
             className="rounded-lg shadow-2xl w-full max-w-4xl mx-auto"
           />
